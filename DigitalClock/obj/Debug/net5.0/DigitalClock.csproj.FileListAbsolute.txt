@@ -1,0 +1,16 @@
+F:\C# Form\DigitalClock\bin\Debug\net5.0\DigitalClock.exe
+F:\C# Form\DigitalClock\bin\Debug\net5.0\DigitalClock.deps.json
+F:\C# Form\DigitalClock\bin\Debug\net5.0\DigitalClock.runtimeconfig.json
+F:\C# Form\DigitalClock\bin\Debug\net5.0\DigitalClock.runtimeconfig.dev.json
+F:\C# Form\DigitalClock\bin\Debug\net5.0\DigitalClock.dll
+F:\C# Form\DigitalClock\bin\Debug\net5.0\ref\DigitalClock.dll
+F:\C# Form\DigitalClock\bin\Debug\net5.0\DigitalClock.pdb
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.csprojAssemblyReference.cache
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.AssemblyInfoInputs.cache
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.AssemblyInfo.cs
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.csproj.CoreCompileInputs.cache
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.dll
+F:\C# Form\DigitalClock\obj\Debug\net5.0\ref\DigitalClock.dll
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.pdb
+F:\C# Form\DigitalClock\obj\Debug\net5.0\DigitalClock.genruntimeconfig.cache
